@@ -1,7 +1,7 @@
 {
   "name": "e-learning-platform",
   "version": "0.1.0",
-  "homepage": "https://saidbrown7.github.io/codesom-ide",
+  "homepage": "https://saidbrown7.github.io/01_codesom-ide",
   "private": true,
   "dependencies": {
     "@codemirror/lang-javascript": "^6.1.1",
