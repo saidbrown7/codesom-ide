@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saidbrown7/codesom-ide/static/css/main.6e0a0954.css",
+    "main.js": "/saidbrown7/codesom-ide/static/js/main.8a762587.js",
+    "static/js/787.de82b8e0.chunk.js": "/saidbrown7/codesom-ide/static/js/787.de82b8e0.chunk.js",
+    "index.html": "/saidbrown7/codesom-ide/index.html",
+    "main.6e0a0954.css.map": "/saidbrown7/codesom-ide/static/css/main.6e0a0954.css.map",
+    "main.8a762587.js.map": "/saidbrown7/codesom-ide/static/js/main.8a762587.js.map",
+    "787.de82b8e0.chunk.js.map": "/saidbrown7/codesom-ide/static/js/787.de82b8e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e0a0954.css",
+    "static/js/main.8a762587.js"
+  ]
+}
